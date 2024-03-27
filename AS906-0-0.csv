@@ -1,0 +1,27 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+154.17.25.205,49997,443,true,LAX,North America,Los Angeles,151,2.74
+103.117.101.24,30809,80,false,HKG,Asia Pacific,Hong Kong,48,2.06
+154.17.28.199,8003,443,true,LAX,North America,Los Angeles,156,2.00
+154.17.29.80,50235,443,true,LAX,North America,Los Angeles,144,1.77
+154.12.191.87,10809,80,false,NRT,Asia Pacific,Tokyo,63,1.68
+154.17.2.191,14604,443,true,LAX,North America,Los Angeles,144,1.42
+154.17.25.205,49999,443,true,LAX,North America,Los Angeles,146,1.42
+154.12.191.87,41809,80,false,NRT,Asia Pacific,Tokyo,46,1.23
+154.17.10.111,25815,443,true,LAX,North America,Los Angeles,151,1.18
+154.17.26.181,57600,443,true,LAX,North America,Los Angeles,156,1.16
+154.17.3.181,51053,443,true,LAX,North America,Los Angeles,152,1.04
+154.17.11.211,32939,443,true,LAX,North America,Los Angeles,156,0.99
+154.21.87.65,38779,443,true,LAX,North America,Los Angeles,151,0.78
+154.17.21.194,15868,443,true,LAX,North America,Los Angeles,156,0.75
+154.12.191.87,30810,80,false,KIX,Asia Pacific,Osaka,60,0.71
+154.21.87.65,38149,443,true,LAX,North America,Los Angeles,154,0.60
+154.17.19.203,2008,2083,true,LAX,North America,Los Angeles,143,0.54
+154.17.21.142,55173,443,true,LAX,North America,Los Angeles,156,0.51
+154.17.22.141,7489,443,true,LAX,North America,Los Angeles,151,0.42
+154.17.19.203,2009,443,true,LAX,North America,Los Angeles,151,0.36
+154.17.17.205,8443,443,true,LAX,North America,Los Angeles,151,0.35
+154.17.2.103,10740,443,true,LAX,North America,Los Angeles,143,0.35
+154.21.87.65,18296,443,true,LAX,North America,Los Angeles,151,0.23
+65.75.193.13,51144,443,true,SJC,North America,San Jose,167,0.07
+65.75.192.35,22857,443,true,SJC,North America,San Jose,164,0.06
+154.21.92.8,31028,443,true,LAX,North America,Los Angeles,151,0.00
