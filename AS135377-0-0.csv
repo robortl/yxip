@@ -1,0 +1,4 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+107.150.103.52,15622,443,true,LAX,North America,Los Angeles,176,0.27
+118.26.38.134,443,443,true,HKG,Asia Pacific,Hong Kong,39,0.07
+118.193.44.62,49454,443,true,HKG,Asia Pacific,Hong Kong,40,0.00
